@@ -1,17 +1,20 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Winter',de,Winter,#4287f5,#315fa8,1,0.5614125
-'Herbst',de,Herbst,#9e3215,#9e3215,1,0.555863463125
-'Schnee',de,Winter,#4287f5,#638ed4,1,0.5441805312499999
-'Hochwasser',de,Winter,#4287f5,#022f78,1,0.5125670175
-'Weinlese',de,Herbst,#9e3215,#b55035,1,0.4986510416666665
-'Frühling',de,Frühling,#679e2c,#679e2c,1,0.4794875
-'Sommer',de,Sommer,#a89216,#a89216,1,0.4786575
-'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.4705857873661989
-'Dürre',de,Sommer,#a89216,#bfba22,1,0.4703845937499998
-'Aussaat',de,Frühling,#679e2c,#7db344,1,0.4617094631672111
-'Ernte',de,Herbst,#9e3215,#d64118,1,0.4539151550156249
-'Gewitter',de,Sommer,#a89216,#c4b03b,2,0.4228879266406248
-'Glatteis',de,Winter,#4287f5,#3b4a63,2,0.37773410268877505
-'Blüte',de,Frühling,#679e2c,#61b00c,1,0.3705460201285585
-'Spätfrost',de,Frühling,#679e2c,#477515,1,0.2844000461382296
-'Laubfall',de,Herbst,#9e3215,#802d16,1,0.2615824620417953
+
+
+'Versorgung',de,Infrastruktur,#e81818,#e81818,1,1
+'Ressourcen',de,Infrastruktur,#e81818,#e81818,1,1
+'Waffen',de,Krieg,#1818e8,#1818e8,1,1
+'Mangel',de,Infrastruktur,#e81818,#e81818,1,1
+'Knappheit',de,Infrastruktur,#e81818,#e81818,1,1
+'Getreide',de,Versorgung,#e81818,#e81818,1,1
+'Lieferschwierigkeiten',de,Infrastruktur,#e81818,#e81818,1,1
+'Inflation',de,Wirtschaft,#18e818,#18e818,1,1
+'Preissteigerung',de,Wirtschaft,#18e818,#18e818,1,1
+'Energiepreise',de,Wirtschaft,#18e818,#18e818,1,1
+'Deutschland',de,Politik,#181818, #181818,1,1
+'Ukraine',de,Politik,#181818, #181818,1,1
+'Russland',de,Politik,#181818, #181818,1,1
+'EU',de,Politik,#181818, #181818,1,1
+'Boykott',de,Politik,#181818, #181818,1,1
+'Heizkosten',de,Wirtschaft,#18e818,#18e818,1,1
+'Europäische Union',de,Politik,#181818, #181818,1,1
